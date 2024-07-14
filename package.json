@@ -5,7 +5,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Vineeth",
+  "license": "UNLICENSED",
+  "description": "Life Insurance Premium Payment Tracking",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineeth4tvm/premiumTracker.git"
+  },
+  "keywords": [
+    "life",
+    "insurance",
+    "premium",
+    "reminder"
+  ],
+  "bugs": {
+    "url": "https://github.com/vineeth4tvm/premiumTracker/issues"
+  },
+  "homepage": "https://github.com/vineeth4tvm/premiumTracker#readme"
 }
